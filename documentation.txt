@@ -1,0 +1,11 @@
+Main project -> 
+    fastparcel
+        App -> core
+		templates
+		bootstrap 4 = 2.31
+
+
+Bootstrap 5.0
+
+auth named as auth_views
+
